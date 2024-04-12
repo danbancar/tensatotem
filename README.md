@@ -2,18 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  th, td {
-      border: 1px solid black;
-      padding: 8px;
-      text-align: left;
-    }
-    th {
-      background-color: #fecc01;
-    }
-
-   
-  </style>
+ </style>
 </head>
 <body>
 <h2>Totems</h2>
