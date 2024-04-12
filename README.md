@@ -2,9 +2,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tabla Stock Totems y Tensa</title>
-  <style>
-    table {
+
+  table {
       width: 100%;
       border-collapse: collapse;
     }
