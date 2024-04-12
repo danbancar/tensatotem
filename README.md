@@ -137,7 +137,8 @@
     <tr>
         <td>000000000030000076.2</td>
         <td>TENSABARRIERS AMARILLOS</td>
-        <td>131</td<td><button onclick="window.location.href='Fotos/B4.JPG'">B4</button></td>
+        <td>131</td>
+      <td><button onclick="window.location.href='Fotos/B4.JPG'">B4</button></td>
     </tr>
     <tr>
         <td>000000000030000076.3</td>
