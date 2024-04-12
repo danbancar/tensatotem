@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -118,8 +117,7 @@
         <td>1</td>
         <td><button onclick="window.location.href='Fotos/A10.JPG'">A10</button></td>
     </tr>
-</tbody>
-</table>
+
 <h3>TENSABARRIERS</h3>
 <table>
   <thead>
