@@ -49,7 +49,7 @@
         <td>000000000030000051.7</td>
         <td>TOTEM CHECK-IN ESTRECHO</td>
         <td>1</td>
-        <td><button onclick="window.location.href='Fotos/A8.JPG'">A8</button></td>
+        <td><button onclick="window.location.href='Fotos/A8.JPG _blank'">A8</button></td>
     </tr>
     <tr>
         <td>000000000030000051.9</td>
