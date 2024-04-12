@@ -17,14 +17,7 @@
       background-color: #fecc01;
     }
 
-    td {
-      font-style: Arial;
-    }
-    img {
-      max-width: 100px;
-      height: auto;
-      cursor: pointer;
-    }
+   
   </style>
 </head>
 <body>
